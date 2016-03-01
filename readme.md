@@ -1,5 +1,49 @@
 # WDI 26 Web Development Immersive
 
+## Unit 3: Node and Express
+
+#### Week 6 - Intro to Node and Express
+
+
+Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
+----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
+**9:00am Module 1** | [Intro to Node.js (Alex)][7-1A]         | [Intro to Mongo (Ilias)][7-2A]             | [Views in Express (Ben)][7-3A]    | [Tune.ly (Group)][7-4A]               | [Review][7-5A]
+**10:45am Module 2** |  [Intro to Express (Alex)][7-1B]         | [Intro to Mongoose (Ilias)][7-2B]              | [Lab: Views in Express (Ben)][7-3B]       | [Tune.ly][7-4B]        | [Review][7-5B]
+**1:30pm Module 3** | [Building Express routes part 1 (Ben)][7-1C]                        | [Mongo Relationships (Ilias / Dani)][7-2C] | [+ AJAX Lesson with Express (Alex)][7-3C] | [Tune.ly][7-4C]     | [Tune.ly][7-5C]
+**3:00pm Module 4** | [Building Express Routes part 2 (Ben)][7-1D]                  | [Lab: Mongo Relationships (Ilias / Dani)][7-2D]| [Lab: ToDo List App (Alex)][7-3D]      | [Tune.ly][7-4D]       | [Tune.ly][7-4E]
+**Homework** | [More Express Routes][7-1E] | [Lab: Mongo][7-2E]   | [Finish and Deploy ToDo List App (Alex)][7-3E]     | [Tune.ly][7-4E]  | [Finish Tune.ly][7-5E]
+
+
+[7-1A]:  w07/d01/m1-node-intro-lesson    "Intro to Node.js"
+[7-1B]:  w07/d01/m2-node-express-intro  "Intro to Express.js"
+[7-1C]:  w07/d01/m3-express-routes-lesson "Intro to Express / Express Routing"
+[7-1D]:  w07/d01/m4-express-routes-lab "Building Express Routes Lab"
+[7-1E]:  w07/d01/hw-more-express-routes "Express Routes"
+
+[7-2A]: w07/d02/m1-intro-mongo "Intro to node with Mongo"
+[7-2B]: w07/d02/m2-mongoose-in-express "Mongo-backed models with Mongoose"
+[7-2C]: w07/d02/m3-mongo-relationships "Mongoose CRUD Lab"
+[7-2D]: w07/d02/m4-mongo-lab "Mongoose Embedded and Referenced Relationships Lab"
+[7-2E]: #  "Connecting Express Routes to Mongo Lab"
+
+[7-3A]: ../baseline-curriculum/resources/04-server-applications/node-express-views-lesson "Views in Express Lesson"
+[7-3B]: ../baseline-curriculum/resources/04-server-applications/node-express-views-lab "Views in Express Lab"
+[7-3C]: ../baseline-curriculum/resources/02-front-end-intro/js-ajax-lesson "AJAX Lesson"
+[7-3D]: https://github.com/sf-wdi-25/notes/tree/master/week-03-ajax-json-express/day-04-json-api/dawn-create-read "Todo Lab, Part 1"
+[7-3E]: https://github.com/sf-wdi-25/notes/tree/master/week-03-ajax-json-express/day-04-json-api/dusk-update-destroy "Todo Lab, Part 2"
+
+[7-4A]: https://github.com/sf-wdi-25/tunely "Tunely"
+[7-4B]: # " "
+[7-4C]: # " "
+[7-4D]: # " "
+[7-4E]: # " "
+
+[7-5A]: # " "
+[7-5B]: # " "
+[7-5C]: # " "
+[7-5D]: # " "
+[7-5E]: # " "
+
 
 ## Unit 2: Full-stack Ruby on Rails
 
@@ -19,7 +63,7 @@ Time | Day 1                                      | Day 2                       
 
 [6-4A]: w06/d04/string_matching/ "Pattern Search"
 
-[6-5E]: w06/d05/hmwk-ruby-prep "Homework"
+[6-5E]: w06/d05/hmwk-readings "Homework"
 
 
 #### Week 5
